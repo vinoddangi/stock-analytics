@@ -1,3 +1,5 @@
 # stock-analytics
 
-run applications using node server.js
+run applications using following commands
+
+### `node server.js`
